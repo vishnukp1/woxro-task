@@ -1,0 +1,25 @@
+.header{
+ padding-right: 5rem;
+ padding-left: 5rem;
+
+}
+.image-div{
+    width: 100%;
+}
+.center-div{
+    width: 70%;
+margin-left: 15rem;
+}
+
+@media (min-width: 700px) and (max-width: 1200px) {
+    .center-div{
+        width: 70%;
+    padding-right:14rem;
+    }
+}
+@media (min-width: 400px) and (max-width: 699px) {
+    .three-div{
+        margin-left: -200px !important;
+        margin-right: 115px !important;
+    }
+}
