@@ -6,7 +6,7 @@ import "../styles/header.css";
 
 function Center() {
   return (
-    <div className="center-div mt-5">
+    <div className="center-div mt-5" style={{marginTop:"22rem"}}>
       <div className="three-div row gx-lg-5 gx-md-4 gx-sm-3">
         <div className="col-lg-4 col-md-6 mb-lg-3 mb-md-3 mb-sm-3">
           <div className="d-flex flex-column">

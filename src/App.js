@@ -7,7 +7,7 @@ import Down from './components/Down';
 
 function App() {
   return (
-    <div className="text-white bg-dark">
+    <div className="text-white App">
       <Header />
      <Center />
      <Down />

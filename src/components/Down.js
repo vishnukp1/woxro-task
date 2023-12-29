@@ -2,7 +2,7 @@ import React from "react";
 
 const Down = () => {
   return (
-    <div className="mx-5">
+    <div className="mx-5" style={{marginTop:"5rem"}}>
       <section className="d-flex text-center">
         <div className="Contribution_content">
           <h1>Our Contribution</h1>
@@ -16,7 +16,7 @@ const Down = () => {
         </div>
       </section>
 
-      <div className="d-flex justify-content-center text-center">
+      <div className="d-flex justify-content-center text-center"  style={{marginTop:"5rem"}}>
         <div className="counting-Users">
           <div className="h1">5M</div>
           <div className="Users--content">Daily User Engagements</div>
@@ -31,7 +31,7 @@ const Down = () => {
         </div>
       </div>
 
-      <section className="d-flex flex-column text-center">
+      <section className="d-flex flex-column text-center"  style={{marginTop:"5rem"}}>
         <div className="ContactUs_content">
           <h1>Interested In Delving Deeper Into The Project?</h1>
           <p>
@@ -50,7 +50,7 @@ const Down = () => {
           </button>
           <button className="btn bg-white">Contact Us</button>
         </div>
-        <div className="h6">
+        <div className="h6"  style={{marginTop:"12rem"}}>
           © 2019-2023 abcTechnology Solutions Pvt. Ltd. All Rights Reserved
         </div>
       </section>
