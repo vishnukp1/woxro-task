@@ -9,10 +9,10 @@ function Header() {
         Epic Games : An American video game and software developer and publisher
         based in Cary, North Carolina.
       </div>
-      < div style={{marginTop:"2rem"}}>
+      <div style={{ marginTop: "2rem" }}>
         <img className="image-div" src={mainimage} alt=""></img>
       </div>
-      <div className="h5 px-5" style={{marginTop:"2rem"}}>
+      <div className="h5 px-5" style={{ marginTop: "2rem" }}>
         Create, play, and battle with friends for free in Fortnite. Be the last
         player standing in Battle Royale and Zero Build, experience a concert or
         live event, or discover over a million creator made games, including
@@ -21,7 +21,7 @@ function Header() {
         your friends. Find it all in Fortnite ... Drop In.
       </div>
 
-      <div className="btn bg-white round-0  mt-4 px-5  " >Visit Website</div>
+      <div className="btn bg-white round-0  mt-4 px-5  ">Visit Website</div>
     </div>
   );
 }
